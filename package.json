@@ -1,0 +1,22 @@
+{
+  "name": "pineapple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravil-96/pineapple.git"
+  },
+  "keywords": [
+    "pineapple"
+  ],
+  "author": "Ravil Shafiyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravil-96/pineapple/issues"
+  },
+  "homepage": "https://github.com/ravil-96/pineapple#readme"
+}
